@@ -1,0 +1,1 @@
+let myTPLink = await tplink.login('username@example.com', 'Password', 'TermID')
